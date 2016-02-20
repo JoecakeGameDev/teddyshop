@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 776510992
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8e1b811d19524f552e51888e41413ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f47e5080155a0c3ac2e9ffbbc14e366d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/Color_F05.001.mat
+- Assets/Materials/Material.mat
+- Assets/product.fbx
+- Assets/Materials/Color_I06.001.mat
+- Assets/Materials/Color_A08.001.mat
+- Assets/Materials/Material.002.mat
+- Assets/Materials/Color_A06.001.mat
+- Assets/shop.fbx
+- Assets/Materials/Material.005.mat
+- Assets/Materials/Material.001.mat
+- Assets/Materials/Color_A05.001.mat
+- Assets/Materials/defaultMat.mat
+- Assets/Materials/Color_I05.001.mat
+- Assets/Materials/Material.003.mat
+- Assets/Materials/Color_M05.001.mat
+- Assets/Materials/Color_C04.001.mat
+- Assets/Materials/Color_E03.001.mat
+- Assets/Materials/Material.004.mat
+Dependencies: []
